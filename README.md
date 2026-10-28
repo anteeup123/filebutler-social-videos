@@ -1,24 +1,25 @@
 # FileButler social media videos
 
-Short vertical videos for FileButler, in five languages, ready to post.
+Short vertical videos for FileButler in five languages, ready to post on Instagram Reels, Facebook Reels, TikTok and YouTube Shorts. One file works on all four platforms.
 
 ## Layout
 
-One folder per language. Inside each folder there is one file per platform and topic:
+- `English/`, `French/`, `German/`, `Portuguese/`, `Spanish/`: nine videos per language, one per topic. These are the posting versions: the narration runs from the first frame and the closing card holds for three seconds after the narration ends (43 to 52 seconds each).
+- `<Language>/Full 60 seconds/`: the same nine videos in their original 60-second cut, where the closing card holds in silence until the 60-second mark.
+- `Captions/<Language>.md`: a title, caption and hashtags for every topic, in that language, ready to paste.
 
-- Languages: English, French, German, Portuguese, Spanish
-- Platforms: Facebook Reels, Instagram Reels, TikTok, YouTube Shorts
-- Topics (nine per language):
-  1. One place for every client
-  2. Turn website visitors into clients
-  3. Onboarding that runs itself
-  4. Documents in a minute
-  5. Signatures without paper
-  6. Email that files itself
-  7. Nothing slips
-  8. The right access and a full record
-  9. Secure and branded
+## Topics (same nine in every language)
 
-File name pattern: `<Platform> - <Language> - <Number> <Topic>.mp4`
+- One place for every client
+- Turn website visitors into clients
+- Onboarding that runs itself
+- Documents in a minute
+- Signatures without paper
+- Email that files itself
+- Nothing slips
+- The right access and a full record
+- Secure and branded
 
-The four platform copies of a topic in one language are the same video file.
+## Specifications
+
+1080 by 1920 (vertical), H.264 video at 30 frames per second, AAC stereo audio. Every file has been fully decoded and checked for errors.
